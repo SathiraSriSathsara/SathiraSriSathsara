@@ -105,6 +105,7 @@
 <br>
 
 <div align="center">
+	<img src="dp-wp-yt-round.png" width="40" height="50">
 	<h4>Sathira Sri Sathsara @ 2023</h4>
 </div>	
 
