@@ -11,7 +11,7 @@
 	
 
 
-<p align="left"><picture> <img align="right" src="https://enforcers.lk/files/img/profo.gif" width ="25"></picture></p>
+<p align="left"><img align="right" src="https://enforcers.lk/files/img/profo.gif" width ="25"></p>
 
 <br>
 
