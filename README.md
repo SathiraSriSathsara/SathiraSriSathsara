@@ -126,7 +126,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Sathira Sri Sathsara</b>
 
 </div>
 <br>
