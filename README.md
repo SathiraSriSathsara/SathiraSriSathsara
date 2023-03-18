@@ -13,7 +13,7 @@
 	
 
 
-<picture> <img align="right" src="https://enforcers.lk/files/img/profo.gif" width = 250px></picture>
+<picture> <img align="right" src="https://enforcers.lk/files/img/profo.gif" width ="25"></picture>
 
 <br>
 
