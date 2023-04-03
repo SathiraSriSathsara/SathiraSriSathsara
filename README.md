@@ -80,22 +80,20 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in//">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sathira-sathsara-779105271/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/SathiraSriSathsara">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/?tab=profile">
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/21552491/sathira-sathsara">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sathirasri/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/SathiXD">
 			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/?view_as=subscriber">
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCQqPK5GJ86SNmmVXrBdDGuQ?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
+            <a style="margin-left: 5px;" target="_blank" href="https://cdn.discordapp.com/attachments/703935965630169218/1092251736829333574/SathiraCV.jpg">
+					</a>
       </div>
 
 </p>
@@ -105,8 +103,8 @@
 <br>
 
 <div align="center">
-	<img src="dp-wp-yt-round.png" width="40" height="50">
-	<h4>Sathira Sri Sathsara @ 2023</h4>
+	<a href="https://cdn.discordapp.com/attachments/703935965630169218/1092251736829333574/SathiraCV.jpg" target="_blank"><img src="dp-wp-yt-round.png" width="40" height="50">
+	<h4>Sathira Sri Sathsara @ 2023</h4></a>
 </div>	
 
 
