@@ -24,7 +24,7 @@
   $age = 20; 
   $job = "Full Stack Developer";
   $founder = "EnforcersLK"; 
-  $developer = AgroMate; 
+  $developer = "AgroMate";
   $school = "University Of Moratuwa";  
 
   echo "hello I'm $name and I am $age years old.I am a self taught $job 💻. 
