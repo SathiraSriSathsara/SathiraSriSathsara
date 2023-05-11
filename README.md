@@ -113,7 +113,7 @@
 <br>
 
 <div align="center">
-	<a href="https://cdn.discordapp.com/attachments/703935965630169218/1092251736829333574/SathiraCV.jpg" target="_blank"><img src="dp-wp-yt-round.png" width="40" height="50">
+	<a href="https://cdn.discordapp.com/attachments/703935965630169218/1092251736829333574/SathiraCV.jpg" target="_blank"><img src="icon.png" width="40" height="50">
 	<h4>Sathira Sri Sathsara @ 2023</h4></a>
 </div>	
 
