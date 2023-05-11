@@ -27,8 +27,9 @@
   $developer = AgroMate; 
   $school = "University Of Moratuwa";  
 
-  echo "hello I'm $name and I am $age years old.I am a self taught $job 💻. I'm also founder 💼 of $founder 
-  and developer in 👨‍💻 $developer. I learn python programming and web development in $school 🌱 . 
+  echo "hello I'm $name and I am $age years old.I am a self taught $job 💻. 
+  I'm also founder 💼 of $founder and developer in 👨‍💻 $developer. 
+  I learn python programming and web development in $school 🌱 . 
   I'm currently Learning about game development and machine learning stuff 🚩"; 
 
 ?> 
