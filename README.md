@@ -16,9 +16,9 @@
 
 
 <br>
-<pre>
 
-.<?php
+```php
+<?php
 
   $name = "Sathira"; 
   $age = 20; 
@@ -27,11 +27,11 @@
   $developer = AgroMate; 
   $school = "University Of Moratuwa";  
 
-  echo "hello I'm $name and I am $age years old.I am a self taught $job 💻. I'm also founder 💼 of $founder <br> and developer in 👨‍💻 $developer. I learn python programming and web development in $school 🌱 .<br> I'm currently Learning about game development and machine learning stuff 🚩"; 
+  echo "hello I'm $name and I am $age years old.I am a self taught $job 💻. I'm also founder 💼 of $founder  and developer in 👨‍💻 $developer. I learn python programming and web development in $school 🌱 . I'm currently Learning about game development and machine learning stuff 🚩"; 
 
 ?> 
+```
 
-</pre>
 
 <br><br>
 
