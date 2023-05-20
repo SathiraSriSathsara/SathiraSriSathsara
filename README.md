@@ -48,7 +48,7 @@
 - **Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C++](https://img.shields.io/badge/Php%20-%2300599C.svg?style=for-the-badge&logo=php%2B%2B&logoColor=white)
     
 
 <br>   
