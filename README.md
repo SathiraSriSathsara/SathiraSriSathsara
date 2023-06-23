@@ -10,6 +10,11 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathirasrisathsara&label=Profile%20views&color=0e75b6&style=flat" alt="sathirasrisathsara" /> </p>
+<p align="left"> <a href="https://twitter.com/sathixd" target="blank"><img src="https://img.shields.io/twitter/follow/sathixd?logo=twitter&style=for-the-badge" alt="sathixd" /></a> </p>
+
+<br>
+
 - 🔭 I’m currently working on [Playlab Movies](playlab.enforcers.lk)
 - 🌱 I’m currently learning Nodejs and Java
 - 📫 How to reach me **sathira@enforcers.lk**
