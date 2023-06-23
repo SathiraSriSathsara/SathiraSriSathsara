@@ -1,18 +1,18 @@
+![Profile-banner](https://cdn.discordapp.com/attachments/703935965630169218/1121791402330837042/github-banner.jpg)  
 
 <div align='center'>
-<h1><b>Hi , I'm Sathira Sri Sathsara Nirmal</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br><h3>A trainee stack developer (University Of Moratuwa) from Sri Lanka 🇱🇰</h3></h1>
-<br>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sathira Sri Sathsara</h1>
+<h3>A passionate frontend & backend developer from Sri Lanka 🇱🇰</h3>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=240&lines=I'm+A+ICT+Student%2C;Stack+Developer%2C;Active+Learner%2C;And+Good+team+leader." alt="Typing SVG" /></a>
 </div>
 
 <br>
 
-
-
-	
-
-
+- 🔭 I’m currently working on [Playlab Movies](playlab.enforcers.lk)
+- 🌱 I’m currently learning Nodejs and Java
+- 📫 How to reach me **sathira@enforcers.lk**
 
 
 <br>
@@ -22,15 +22,15 @@
 
   $name = "Sathira"; 
   $age = 20; 
-  $job = "Full Stack Developer";
+  $doing = "Full Stack Developer";
   $founder = "EnforcersLK"; 
   $developer = "AgroMate";
-  $school = "University Of Moratuwa";  
+  $whereilerned = "University Of Moratuwa";  
 
-  echo "hello I'm $name and I am $age years old.I am a self taught $job 💻. 
-  I'm also founder 💼 of $founder and developer in 👨‍💻 $developer. 
-  I learn python programming and web development in $school 🌱 . 
-  I'm currently Learning about game development and machine learning stuff 🚩"; 
+  echo "Hello I'm $name and I am $age years old. I am a self-taught $doing 💻. 
+  I'm also the founder 💼 of $founder and developer in 👨‍💻 $developer. 
+  I learn Python programming and web development in $whereilerned 🌱 . 
+  I'm currently learning about game development, nodejs, and java 🚩"; 
 
 ?> 
 ```
@@ -38,52 +38,14 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathirasrisathsara&show_icons=true&locale=en&layout=compact" alt="sathirasrisathsara" /></p>
 
-<p align="center">
-
-- **Languages**:
-    
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![PHP](https://img.shields.io/badge/Php%20-%2300599C.svg?style=for-the-badge&logo=php&logoColor=white)
-    
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-%23327FC7.svg?style=for-the-badge&logo=GOOGLE&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS%20-%23327FC7.svg?style=for-the-badge&logo=AMAZON&logoColor=white)
-	![lINODE](https://img.shields.io/badge/LINODE%20-%23327FC7.svg?style=for-the-badge&logo=LINODE&logoColor=white)
-	![Digital Ocean](https://img.shields.io/badge/DIGITAL%20OCEAN%20-%23327FC7.svg?style=for-the-badge&logo=DIGITALOCEAN&logoColor=white)
-<br>
-
-- **Softwares and Tools**:
-
-    
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathirasrisathsara&show_icons=true&locale=en" alt="sathirasrisathsara" /></p>
 
 
-
-</p>
-
-<br>
-<hr>
 <br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -117,6 +79,3 @@
 	<a href="https://cdn.discordapp.com/attachments/703935965630169218/1092251736829333574/SathiraCV.jpg" target="_blank"><img src="icon.png" width="40">
 	<h4>Sathira Sri Sathsara @ 2023</h4></a>
 </div>	
-
-
-
