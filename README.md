@@ -15,8 +15,8 @@
 
 <br>
 
-- 🔭 I’m currently working on [Playlab Movies](playlab.enforcers.lk)
-- 🌱 I’m currently learning Nodejs and Java
+- 🔭 I’m currently working on [Enforcers.lk](https://www.enforcers.lk)
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me **sathira@enforcers.lk**
 
 
