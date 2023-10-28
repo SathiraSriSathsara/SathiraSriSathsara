@@ -1,5 +1,3 @@
-![Profile-banner](https://cdn.discordapp.com/attachments/703935965630169218/1121791402330837042/github-banner.jpg)  
-
 <div align='center'>
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sathira Sri Sathsara</h1>
 <h3>A passionate frontend & backend developer from Sri Lanka 🇱🇰</h3>
