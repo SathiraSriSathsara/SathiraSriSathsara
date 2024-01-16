@@ -1,14 +1,12 @@
 <div align='center'>
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sathira Sri Sathsara</h1>
-<h3>A passionate fulstack developer from Sri Lanka 🇱🇰</h3>
+<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sathira Sri Sathsara</h1>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=240&lines=I'm+A+ICT+Student%2C;Stack+Developer%2C;Active+Learner%2C;And+Good+team+leader." alt="Typing SVG" /></a>
+<h3>A Software engineering student passionate about Programming & Technology. Form Sri Lanka 🇱🇰</h3>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathirasrisathsara&label=Profile%20views&color=0e75b6&style=flat" alt="sathirasrisathsara" /> </p>
+</br>
 </div>
 
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathirasrisathsara&label=Profile%20views&color=0e75b6&style=flat" alt="sathirasrisathsara" /> </p>
 <p align="left"> <a href="https://twitter.com/sathixd" target="blank"><img src="https://img.shields.io/twitter/follow/sathixd?logo=twitter&style=for-the-badge" alt="sathixd" /></a> </p>
 
 <br>
