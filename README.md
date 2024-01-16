@@ -7,7 +7,7 @@
 </br>
 </div>
 
-<p align="left"> <a href="https://twitter.com/sathixd" target="blank"><img src="https://img.shields.io/twitter/follow/sathixd?logo=twitter&style=for-the-badge" alt="sathixd" /></a> </p>
+<a href="https://twitter.com/sathixd" target="blank"><img src="https://img.shields.io/twitter/follow/sathixd?logo=twitter&style=for-the-badge" alt="sathixd" /></a> 
 
 <br>
 
