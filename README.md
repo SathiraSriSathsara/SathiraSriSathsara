@@ -1,6 +1,6 @@
 <div align='center'>
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sathira Sri Sathsara</h1>
-<h3>A passionate frontend & backend developer from Sri Lanka 🇱🇰</h3>
+<h3>A passionate fulstack developer from Sri Lanka 🇱🇰</h3>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=240&lines=I'm+A+ICT+Student%2C;Stack+Developer%2C;Active+Learner%2C;And+Good+team+leader." alt="Typing SVG" /></a>
@@ -13,30 +13,14 @@
 
 <br>
 
-- 🔭 I’m currently working on [Enforcers.lk](https://www.enforcers.lk)
+- 🔭 I’m currently working at [Enforcers.lk](https://www.enforcers.lk)
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me **sathira@enforcers.lk**
 
 
 <br>
 
-```php
-<?php
 
-  $name = "Sathira"; 
-  $age = 20; 
-  $doing = "Full Stack Developer";
-  $founder = "EnforcersLK"; 
-  $developer = "AgroMate";
-  $whereilerned = "University Of Moratuwa";  
-
-  echo "Hello I'm $name and I am $age years old. I am a self-taught $doing 💻. 
-  I'm also the founder 💼 of $founder and developer in 👨‍💻 $developer. 
-  I learn Python programming and web development in $whereilerned 🌱 . 
-  I'm currently learning about game development, nodejs, and java 🚩"; 
-
-?> 
-```
 
 
 <br><br>
