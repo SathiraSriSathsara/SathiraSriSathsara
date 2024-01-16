@@ -46,10 +46,20 @@ Learning is something I really enjoy, and teaching others is even better. It's a
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
+## 🏆 Achievements
+
+- Most impactfull idea & Second runners up - <a href="https://www.dialog.lk/news/Dialog-App-Challenge-Sri-Lankas-1st-Inter-school-App-Development-Competition-Concludes-with-Grand-Finale#:~:text=Dialog%20Axiata%20PLC%2C%20Sri%20Lanka's,representing%20Jaffna%20College%2C%20being%20crowned">Dialog app challege 2018 (2019)</a>
+
+
+## 📈 GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathirasrisathsara&show_icons=true&locale=en&layout=compact" alt="sathirasrisathsara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathirasrisathsara&show_icons=true&locale=en" alt="sathirasrisathsara" /></p>
 
+## 📚 Learning Goals
+
+- Currently learning Java 
 
 <br>
 
@@ -82,5 +92,6 @@ Learning is something I really enjoy, and teaching others is even better. It's a
 
 <div align="center">
 	<a href="https://cdn.discordapp.com/attachments/703935965630169218/1092251736829333574/SathiraCV.jpg" target="_blank"><img src="icon.png" width="40">
-	<h4>Sathira Sri Sathsara @ 2023</h4></a>
+	<h4>Sathira Sri Sathsara @ 2024</h4></a>
 </div>	
+
