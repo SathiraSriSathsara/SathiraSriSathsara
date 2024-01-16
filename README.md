@@ -7,14 +7,18 @@
 </br>
 </div>
 
+<br>
 <a href="https://twitter.com/sathixd" target="blank"><img src="https://img.shields.io/twitter/follow/sathixd?logo=twitter&style=for-the-badge" alt="sathixd" /></a> 
 
-<br>
 
-- 🔭 I’m currently working at [Enforcers.lk](https://www.enforcers.lk)
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me **sathira@enforcers.lk**
 
+## 🚀 A little more about me...
+
+Hi, I'm a student learning Software Engineering at Cardiff Metropolitan University. I've been diving into the world of web development for three years now. During this time, I co-founded a cool organization called EnforcersLK, where we did all sorts of freelance web development. Currently, I'm wearing the hat of a director at Niolla IT Solutions.
+
+In my journey, I've been part of projects touching different areas like e-commerce, system developments, and more. I love working with websites and applications, and I always follow this cool method called MVC architecture to make things organized and smooth.
+
+Learning is something I really enjoy, and teaching others is even better. It's amazing to see someone pick up something new from what I share. So, whether it's coding or just chatting about tech, I'm up for it. Let's connect and grow together! 😊
 
 <br>
 
