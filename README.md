@@ -1,7 +1,7 @@
 <div align='center'>
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sathira Sri Sathsara</h1>
 
-<h3>A Software developer who is obsessed with how the tech world works</h3>
+<h3>A person who is obsessed with how technology works and driven to be part of its evolution</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathirasrisathsara&label=Profile%20views&color=0e75b6&style=flat" alt="sathirasrisathsara" /> </p>
 </br>
