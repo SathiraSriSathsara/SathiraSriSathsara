@@ -23,13 +23,18 @@ A passionate software developer majoring in BSc Software Engineering at Cardiff 
 
 <br><br>
 
-## 🌟 Skills 
+## 🌟 Skills & Experience
 
 #### Tools & Softwares: 
 
+For web development, I mostly use **VS Code**, and I have used mutiple IDE's past couple of years, like **IntelliJ IDEA** for Java, **PyCharm** for Python, **Android Studio** for Android development, etc.
+
 ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![image](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![image](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-#### Cloud Platforms: 
+#### Cloud & Devops: 
+
+Over the past few years, I’ve worked with various cloud hosting providers, primarily using Ubuntu-based Linux servers (VPS/EC2), S3 storage, block storage, and serverless functions. I have experience setting up CI/CD pipelines, Docker containers, databases, networking rules, and port forwarding, as well as hosting commercial systems for clients and configuring development and production environments on servers.   
+
  ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![image](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![image](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white) ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) 
 
  #### Database: 
