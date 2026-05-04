@@ -14,13 +14,7 @@
 
 ## 🚀 A little more about me...
 
-I'm a passionate and versatile software developer and a Software Engineering student at Cardiff Metropolitan University (UK), delivered through ICBT Kandy Campus. With a strong foundation in full-stack development, I’ve built and managed systems ranging from Point-of-Sale (POS) and KOT solutions to hospital and insurance management platforms.
-
-I serve as the Director and COO of Niolla IT Solutions, where I lead development and operational strategies for innovative tech projects. I'm also one of the founders and developers at Agromate, a platform focused on revolutionizing agriculture through smart solutions. In the gaming space, I co-founded EnforcersLK, a leading Sri Lankan game server network and gaming community.
-
-I specialize in HTML, CSS, JavaScript, React, NextJS, AstroJS, TaildwindCSS, BoostrapCSS, PHP, Node.js, Java, Python, SQLite, Oracle Cloud, Digital Ocean, GCP, and AWS, and I’m constantly exploring new frontiers, including AI integration, to make business systems more intelligent and adaptive.
-
-Learning is something I really enjoy, and teaching others is even better. It's amazing to see someone pick up something new from what I share. So, whether it's coding or just chatting about tech, I'm up for it. Let's connect and grow together! 😊
+A passionate software developer majoring in BSc Software Engineering at Cardiff Metropolitan University. Currently a co-founder of an IT company called Niolla, specializing in developing B2B solutions for small to enterprise level businesses. I manage teams, write code, onboard clients, and handle business operations at Niolla as a co-founder. I mainly use Node.js for backend development and work with MySQL and Redis for databases across most of my side projects, as well as some commercial projects. At the moment, I’m exploring Web3, AI, and blockchain technologies. I also have an interest in cybersecurity. If you’d like to talk more about tech and software, let’s connect. 
 
 <br>
 
